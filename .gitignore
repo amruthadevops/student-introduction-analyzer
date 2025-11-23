@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+data/rubric_clean.csv
+data/student_intros.csv
+data/edited_intros.csv
+data/sample_audio.wav
